@@ -13,7 +13,7 @@ import './_css/app.scss'
 
 const jost = Jost({
   subsets: ['latin'],
-  weight: ['400', '600'],
+  weight: ['400', '700'],
   variable: '--font-jost',
 })
 
